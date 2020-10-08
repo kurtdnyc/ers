@@ -1,5 +1,28 @@
 Manifest-Version: 1.0
 Built-By: Kurtm
+Class-Path: src/hibernate-core-5.4.18.Final.jar src/jboss-logging-3.3.
+ 2.Final.jar src/javax.persistence-api-2.2.jar src/javassist-3.24.0-GA
+ .jar src/byte-buddy-1.10.10.jar src/antlr-2.7.7.jar src/jboss-transac
+ tion-api_1.2_spec-1.1.1.Final.jar src/jandex-2.1.3.Final.jar src/clas
+ smate-1.5.1.jar src/javax.activation-api-1.2.0.jar src/dom4j-2.1.3.ja
+ r src/hibernate-commons-annotations-5.1.0.Final.jar src/jaxb-api-2.3.
+ 1.jar src/jaxb-runtime-2.3.1.jar src/txw2-2.3.1.jar src/istack-common
+ s-runtime-3.0.7.jar src/stax-ex-1.8.jar src/FastInfoset-1.2.15.jar sr
+ c/hibernate-validator-6.1.5.Final.jar src/jakarta.validation-api-2.0.
+ 2.jar src/jakarta.el-3.0.3.jar src/javalin-3.9.1.jar src/slf4j-api-1.
+ 7.30.jar src/jetty-server-9.4.30.v20200611.jar src/javax.servlet-api-
+ 3.1.0.jar src/jetty-http-9.4.30.v20200611.jar src/jetty-util-9.4.30.v
+ 20200611.jar src/jetty-io-9.4.30.v20200611.jar src/jetty-webapp-9.4.3
+ 0.v20200611.jar src/jetty-xml-9.4.30.v20200611.jar src/jetty-servlet-
+ 9.4.30.v20200611.jar src/jetty-security-9.4.30.v20200611.jar src/webs
+ ocket-server-9.4.30.v20200611.jar src/websocket-common-9.4.30.v202006
+ 11.jar src/websocket-api-9.4.30.v20200611.jar src/websocket-client-9.
+ 4.30.v20200611.jar src/jetty-client-9.4.30.v20200611.jar src/websocke
+ t-servlet-9.4.30.v20200611.jar src/kotlin-stdlib-jdk8-1.3.71.jar src/
+ kotlin-stdlib-1.3.71.jar src/kotlin-stdlib-common-1.3.71.jar src/anno
+ tations-13.0.jar src/kotlin-stdlib-jdk7-1.3.71.jar src/slf4j-simple-1
+ .7.30.jar src/gson-2.8.6.jar src/mariadb-java-client-2.6.1.jar
 Build-Jdk: 1.8.0_261
 Created-By: Maven Integration for Eclipse
+Main-Class: dev.kurt.app.App
 
